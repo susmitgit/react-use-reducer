@@ -1,4 +1,4 @@
-import React, { useState, useRef, useReducer } from "react";
+import React, { useState, useRef } from "react";
 import Modal from "./Modal";
 
 const Index = () => {
